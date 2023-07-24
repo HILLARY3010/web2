@@ -8,7 +8,7 @@ li{
 }
 body{
    height: 100%; width: 100%;;
-   background-color:maroon;
+   background-color:blue;
     
 }
 
@@ -22,7 +22,7 @@ display: table-cell;
                     vertical-align: top;
                   
                     float: none;
-                background-color: blue;
+                background-color: orange;
                 width :600px;
                 height: 1000px;
                 
@@ -35,12 +35,11 @@ display: table-cell;
     height: 80px;
     width: 100%;
   
-    background-color: gold;
+    background-color: green;
 }
 .section {
 	float: left; 
   height: 1000px;
-  background-image: url('car_valuation.jpg');
     padding: 0%;
     width: 1000px;
     					
